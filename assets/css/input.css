@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Press+Start+2P&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ff-press {
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.ff-ibm {
+    font-family: 'IBM Plex Mono', monospace;
+}
+.w-img{
+    max-width: 160px;
+}
+.wimg{
+    max-width: 160px;
+}
+
+ .text-str{
+    text-decoration:line-through RED;
+
+} 
